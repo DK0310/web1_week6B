@@ -18,7 +18,7 @@
             </ul>
         </nav>
         <main>
-            <?= $output?>
+            <?= $output ?>
         </main>    
         <footer>&copy; IJDB 2023 </footer>
          
